@@ -1,3 +1,0 @@
-# storefront
-
-My Django Work
